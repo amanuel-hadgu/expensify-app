@@ -8,7 +8,6 @@ import HelpPage from '../components/HelpPage';
 import NotFoundPage from '../components/NotFoundPage';
 
 const AppRouter = () => {
-    console.log("AppRouter");
     return (
         <BrowserRouter>
             <div>
